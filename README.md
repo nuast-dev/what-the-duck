@@ -1,4 +1,5 @@
-# What The Duck 🦆
+# What The Duck [Blinking Duck](docs/images/what-the-duck.gif) [Duck Programming](docs/duck-programming.md)
+[Duck Programming](docs/duck-programming.md) > [What The Duck Programming](docs/what-the-duck-programming.md)
 
 > Self-help programming guides for developers navigating the modern coding landscape
 
@@ -8,7 +9,7 @@ Welcome to **What The Duck**, a collection of programming methodologies and stra
 
 ## Contents
 
-### 🦆 [Duck Programming](docs/duck-programming.md)
+### ![Blinking Duck](docs/images/what-the-duck.gif) [Duck Programming](docs/duck-programming.md)
 Learn about the classic rubber duck debugging technique and its evolution into a comprehensive programming methodology. Discover strategies for problem-solving, code review, and mental clarity through articulation.
 
 ### 🤖 [What The Duck Programming](docs/what-the-duck-programming.md)

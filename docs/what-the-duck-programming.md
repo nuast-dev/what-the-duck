@@ -1,10 +1,12 @@
-# What The Duck Programming 🤖🦆
-
+# What The Duck Programming 🤖
+[⬅️ Main Page](../README.md)
 ## Introduction
+
+**Key principle : Nothing motivates like correcting someone else.**
 
 **What The Duck Programming** is a modern extension of [Duck Programming](duck-programming.md) specifically designed for the age of AI-assisted development. As AI code generators become increasingly sophisticated, developers need new strategies to work effectively with AI-generated code—not just accepting it blindly, but critically analyzing, understanding, and often rebuilding it.
 
-The methodology gets its name from the common reaction developers have when reviewing AI-generated code: "What the duck is this doing?!"
+The methodology gets its name from the common reaction developers have when reviewing AI-generated code: "What the duck is this doing?" and "Why the Duck did it do it that way?"
 
 ## The Core Concept
 
