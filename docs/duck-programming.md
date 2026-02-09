@@ -1,4 +1,4 @@
-# Duck Programming ![Blinking Duck](images/WhatTheDuck32WiggleIt.gifi)
+# Duck Programming ![Blinking Duck](images/WhatTheDuck32WiggleIt.gif)
 [⬅️ Main Page](../README.md)
 
 ## What is Duck Programming?
