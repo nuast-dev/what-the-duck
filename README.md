@@ -1,4 +1,4 @@
-# What The Duck ![Blinking Duck](docs/images/what-the-duck.gif)
+# What The Duck ![Blinking Duck](images/WhatTheDuck32WiggleIt.gif)
 [Duck Programming](docs/duck-programming.md) > [What The Duck Programming](docs/what-the-duck-programming.md)
 
 > Self-help programming guides for developers navigating the modern coding landscape
